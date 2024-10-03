@@ -3,11 +3,11 @@ package auth
 import (
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/middleware"
-	"github.com/pufferpanel/pufferpanel/v3/models"
-	"github.com/pufferpanel/pufferpanel/v3/response"
-	"github.com/pufferpanel/pufferpanel/v3/services"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/middleware"
+	"github.com/tsarchghs/pufferpanel/models"
+	"github.com/tsarchghs/pufferpanel/response"
+	"github.com/tsarchghs/pufferpanel/services"
 	"net/http"
 	"time"
 )

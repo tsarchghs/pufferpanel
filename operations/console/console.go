@@ -1,6 +1,6 @@
 package console
 
-import "github.com/pufferpanel/pufferpanel/v3"
+import "github.com/pufferpanel/"
 
 type Console struct {
 	Text string

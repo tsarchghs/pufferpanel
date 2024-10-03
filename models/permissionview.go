@@ -1,6 +1,6 @@
 package models
 
-import "github.com/pufferpanel/pufferpanel/v3"
+import "github.com/pufferpanel/"
 
 type PermissionView struct {
 	ServerIdentifier string `json:"serverIdentifier,omitempty"`

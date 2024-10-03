@@ -1,0 +1,23 @@
+{
+  "Refresh": "Refresh",
+  "CreateFile": "Crea file",
+  "CreateFolder": "Crea cartella",
+  "ArchiveCurrent": "Archive current folder",
+  "UploadFile": "Upload file",
+  "UploadFolder": "Upload folder",
+  "Archive": "Archive",
+  "Extract": "Extract",
+  "Download": "Download",
+  "Delete": "Elimina",
+  "ConfirmDelete": "Sei sicuro di voler eliminare questo file?",
+  "UploadSuccess": "File caricati con successo",
+  "UploadFailed": "Caricamento file fallito",
+  "UploadProgress": "Progresso caricamento",
+  "PreparingUpload": "Preparazione caricamento",
+  "CreatingFolders": "Creazione cartelle",
+  "CurrentlyUploading": "Caricamento file {current}/{total}",
+  "Current": "Corrente",
+  "Total": "Totale",
+  "OpenLargeFile": "Questo file può causare problemi di prestazioni per il tuo browser a causa della sua dimensione, vuoi aprirlo comunque?",
+  "OpenAnyways": "Apri comunque"
+}

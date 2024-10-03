@@ -2,7 +2,7 @@ package forgedl
 
 import (
 	"errors"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"github.com/spf13/cast"
 )
 

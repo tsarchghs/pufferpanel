@@ -4,7 +4,7 @@ import (
 	"archive/tar"
 	"errors"
 	"github.com/klauspost/compress/zip"
-	"github.com/mholt/archiver/v3"
+	"github.com/mholt/archiver"
 	"io"
 	"os"
 	"path/filepath"

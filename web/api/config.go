@@ -2,7 +2,7 @@ package api
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/tsarchghs/pufferpanel/config"
 	"net/http"
 	"os"
 	"strings"

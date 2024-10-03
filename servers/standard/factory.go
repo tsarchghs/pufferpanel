@@ -1,6 +1,6 @@
 package standard
 
-import "github.com/pufferpanel/pufferpanel/v3"
+import "github.com/pufferpanel/"
 
 type EnvironmentFactory struct {
 	pufferpanel.EnvironmentFactory

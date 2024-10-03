@@ -2,7 +2,7 @@ package auth
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pufferpanel/pufferpanel/v3/models"
+	"github.com/tsarchghs/pufferpanel/models"
 )
 
 func Reauth(c *gin.Context) {

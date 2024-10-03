@@ -2,7 +2,7 @@
 
 package servers
 
-import "github.com/pufferpanel/pufferpanel/v3/servers/tty"
+import "github.com/tsarchghs/pufferpanel/servers/tty"
 
 func init() {
 	envMapping["host"] = tty.EnvironmentFactory{}

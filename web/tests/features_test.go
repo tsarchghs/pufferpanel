@@ -2,7 +2,7 @@ package tests
 
 import (
 	"fmt"
-	"github.com/pufferpanel/pufferpanel/v3/models"
+	"github.com/tsarchghs/pufferpanel/models"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"testing"

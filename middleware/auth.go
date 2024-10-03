@@ -3,9 +3,9 @@ package middleware
 import (
 	"errors"
 	"github.com/gin-gonic/gin"
-	"github.com/pufferpanel/pufferpanel/v3/database"
-	"github.com/pufferpanel/pufferpanel/v3/response"
-	"github.com/pufferpanel/pufferpanel/v3/services"
+	"github.com/tsarchghs/pufferpanel/database"
+	"github.com/tsarchghs/pufferpanel/response"
+	"github.com/tsarchghs/pufferpanel/services"
 	"gorm.io/gorm"
 	"net/http"
 	"strings"

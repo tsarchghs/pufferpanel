@@ -1,7 +1,7 @@
 package logging
 
 import (
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/tsarchghs/pufferpanel/config"
 	"io"
 	"log"
 	"os"

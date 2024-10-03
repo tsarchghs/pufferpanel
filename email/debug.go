@@ -1,7 +1,7 @@
 package email
 
 import (
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/tsarchghs/pufferpanel/logging"
 )
 
 type debugProvider struct {

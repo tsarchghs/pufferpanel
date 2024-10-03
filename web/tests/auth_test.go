@@ -2,11 +2,11 @@ package tests
 
 import (
 	"encoding/json"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/database"
-	"github.com/pufferpanel/pufferpanel/v3/models"
-	"github.com/pufferpanel/pufferpanel/v3/services"
-	"github.com/pufferpanel/pufferpanel/v3/web/auth"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/database"
+	"github.com/tsarchghs/pufferpanel/models"
+	"github.com/tsarchghs/pufferpanel/services"
+	"github.com/tsarchghs/pufferpanel/web/auth"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

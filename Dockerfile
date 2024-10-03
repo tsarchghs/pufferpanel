@@ -49,8 +49,8 @@ ARG TARGETPLATFORM
 ARG curseforgeKey=''
 
 RUN xx-apk add musl-dev gcc
-RUN xx-go build -buildvcs=false -tags "$tags" -ldflags "-X 'github.com/pufferpanel/pufferpanel/v3/config.curseforgeKey=$curseforgeKey' -X 'github.com/pufferpanel/pufferpanel/v3.Hash=$sha' -X 'github.com/pufferpanel/pufferpanel/v3.Version=$version'" -o /pufferpanel/pufferpanel github.com/pufferpanel/pufferpanel/v3/cmd
-RUN xx-verify /pufferpanel/pufferpanel
+RUN xx-go build -buildvcs=false -tags "$tags" -ldflags "-X 'github.com/tsarchghs/pufferpanel/config.curseforgeKey=$curseforgeKey' -X 'github.com/pufferpanel/.Hash=$sha' -X 'github.com/pufferpanel/.Version=$version'" -o /pufferpanel/ github.com/tsarchghs/pufferpanel/cmd
+RUN xx-verify /pufferpanel/
 
 ###
 # Generate final image

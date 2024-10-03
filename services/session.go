@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"errors"
 	uuid "github.com/gofrs/uuid/v5"
-	"github.com/pufferpanel/pufferpanel/v3/models"
+	"github.com/tsarchghs/pufferpanel/models"
 	"gorm.io/gorm"
 	"strings"
 	"time"

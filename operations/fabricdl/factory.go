@@ -1,6 +1,6 @@
 package fabricdl
 
-import "github.com/pufferpanel/pufferpanel/v3"
+import "github.com/pufferpanel/"
 
 type OperationFactory struct {
 	pufferpanel.OperationFactory

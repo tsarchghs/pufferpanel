@@ -1,9 +1,9 @@
 package download
 
 import (
-	"github.com/cavaliergopher/grab/v3"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/cavaliergopher/grab"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/logging"
 )
 
 type Download struct {

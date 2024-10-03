@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/go-version"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 )
 
 type ResolveNeoForgeVersion struct {

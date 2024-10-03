@@ -7,9 +7,9 @@ import (
 	"crypto/rand"
 	"encoding/base64"
 	"github.com/MicahParks/jwkset"
-	"github.com/MicahParks/keyfunc/v3"
+	"github.com/MicahParks/keyfunc"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/tsarchghs/pufferpanel/config"
 	"sync"
 )
 

@@ -2,7 +2,7 @@ package pufferpanel
 
 import (
 	"errors"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"github.com/spf13/cast"
 	"io"
 	"net"

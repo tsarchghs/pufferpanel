@@ -10,9 +10,9 @@ import (
 
 	"github.com/pquerna/otp"
 	"github.com/pquerna/otp/totp"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
-	"github.com/pufferpanel/pufferpanel/v3/models"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
+	"github.com/tsarchghs/pufferpanel/models"
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"
 )

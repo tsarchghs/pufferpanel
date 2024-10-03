@@ -1,0 +1,52 @@
+{
+  "Name": "名前",
+  "Language": "言語",
+  "Online": "オンライン",
+  "Offline": "オフライン",
+  "Installing": "インストール中",
+  "Unknown": "不明なエラー",
+  "Loading": "読み込み中...",
+  "Description": "概要",
+  "Save": "保存",
+  "Cancel": "取り消し",
+  "Close": "閉じる",
+  "Host": "ホスト",
+  "Port": "ポート",
+  "Collapse": "折りたたむ",
+  "Expand": "開く",
+  "Copy": "クリップボードにコピー",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "次",
+  "Details": "結果",
+  "ErrorDetails": "エラー結果",
+  "HelpTranslate": "PufferPanelの翻訳にご協力ください",
+  "Protocol": "プロトコル",
+  "Add": "追加",
+  "Apply": "適用",
+  "Confirm": "確認",
+  "Condition": "条件",
+  "Discard": "破棄",
+  "ConfirmLeave": "保存されていない変更があります。これらの変更を破棄して、このページから離れますか？",
+  "theme": {
+    "Theme": "テーマ",
+    "Mode": "モード",
+    "mode": {
+      "Light": "ライト",
+      "Dark": "ダーク",
+      "Auto": "自動"
+    },
+    "BaseColor": "ベースカラー",
+    "ServerTypeDisplay": "サーバータイプの表示",
+    "serverTypeDisplay": {
+      "Icon": "アイコン",
+      "None": "未設定"
+    },
+    "ListType": "リストの種類",
+    "listType": {
+      "Grid": "グリッド",
+      "List": "一覧"
+    }
+  },
+  "NoResults": "No Results"
+}

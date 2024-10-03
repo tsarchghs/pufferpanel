@@ -3,12 +3,12 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
-	"github.com/pufferpanel/pufferpanel/v3/operations/curseforge"
-	"github.com/pufferpanel/pufferpanel/v3/operations/resolveforgeversion"
-	"github.com/pufferpanel/pufferpanel/v3/servers"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
+	"github.com/tsarchghs/pufferpanel/logging"
+	"github.com/tsarchghs/pufferpanel/operations/curseforge"
+	"github.com/tsarchghs/pufferpanel/operations/resolveforgeversion"
+	"github.com/tsarchghs/pufferpanel/servers"
 	"os"
 	"path/filepath"
 )

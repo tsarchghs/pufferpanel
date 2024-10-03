@@ -2,8 +2,8 @@ package dockerpull
 
 import (
 	"context"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/servers/docker"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/servers/docker"
 )
 
 type DockerPull struct {

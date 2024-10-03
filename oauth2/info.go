@@ -2,7 +2,7 @@ package oauth2
 
 import (
 	"encoding/json"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"net/url"
 )
 

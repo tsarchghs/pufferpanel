@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"errors"
 	"github.com/hashicorp/go-version"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"path"
 	"strings"
 )

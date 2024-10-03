@@ -6,7 +6,7 @@ import (
 	"github.com/google/cel-go/common/types"
 	"github.com/google/cel-go/common/types/ref"
 	"github.com/google/cel-go/interpreter/functions"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"os"
 	"os/exec"
 	"path/filepath"

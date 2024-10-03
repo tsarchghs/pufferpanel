@@ -1,0 +1,52 @@
+{
+  "Name": "Nimi",
+  "Language": "Keel",
+  "Online": "Võrgus",
+  "Offline": "Võrgust väljas",
+  "Installing": "Installing",
+  "Unknown": "Teadmata",
+  "Loading": "Laadimine...",
+  "Description": "Kirjeldus",
+  "Save": "Salvesta",
+  "Cancel": "Loobu",
+  "Close": "Sulge",
+  "Host": "Host",
+  "Port": "Port",
+  "Collapse": "Koonda",
+  "Expand": "Laienda",
+  "Copy": "Copy to clipboard",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "Järgmine",
+  "Details": "Üksikasjad",
+  "ErrorDetails": "Tõrke Üksikasjad",
+  "HelpTranslate": "Aita tõlkida PufferPanelit",
+  "Protocol": "Protokoll",
+  "Add": "Lisa",
+  "Apply": "Rakenda",
+  "Confirm": "Kinnita",
+  "Condition": "Tingimus",
+  "Discard": "Discard",
+  "ConfirmLeave": "You have unsaved changes, do you want to discard these changes and leave this page?",
+  "theme": {
+    "Theme": "Teema",
+    "Mode": "Režiim",
+    "mode": {
+      "Light": "Hele",
+      "Dark": "Tume",
+      "Auto": "Automaatne"
+    },
+    "BaseColor": "Põhivärv",
+    "ServerTypeDisplay": "Serveri Tüüpi Näitaja",
+    "serverTypeDisplay": {
+      "Icon": "Ikoon",
+      "None": "Puudub"
+    },
+    "ListType": "Nimekirja Tüüp",
+    "listType": {
+      "Grid": "Ruudustik",
+      "List": "Nimekiri"
+    }
+  },
+  "NoResults": "No Results"
+}

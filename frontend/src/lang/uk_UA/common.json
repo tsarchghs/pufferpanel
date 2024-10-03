@@ -1,0 +1,52 @@
+{
+  "Name": "Ім’я",
+  "Language": "Мова",
+  "Online": "У мережі",
+  "Offline": "Не в мережі",
+  "Installing": "Installing",
+  "Unknown": "Не вказано",
+  "Loading": "Завантаження...",
+  "Description": "Description",
+  "Save": "Зберегти",
+  "Cancel": "Скасувати",
+  "Close": "Закрити",
+  "Host": "Хост",
+  "Port": "Порт",
+  "Collapse": "Згорнути",
+  "Expand": "Розгорнути",
+  "Copy": "Copy to clipboard",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "Далі",
+  "Details": "Подробиці",
+  "ErrorDetails": "Деталі помилки",
+  "HelpTranslate": "Допоможіть нам перекласти PufferPanel",
+  "Protocol": "Протокол",
+  "Add": "Додати",
+  "Apply": "Застосувати",
+  "Confirm": "Confirm",
+  "Condition": "Condition",
+  "Discard": "Discard",
+  "ConfirmLeave": "You have unsaved changes, do you want to discard these changes and leave this page?",
+  "theme": {
+    "Theme": "Тема",
+    "Mode": "Режим",
+    "mode": {
+      "Light": "Світла",
+      "Dark": "Темна",
+      "Auto": "Auto"
+    },
+    "BaseColor": "Основний колір",
+    "ServerTypeDisplay": "Тип сервера",
+    "serverTypeDisplay": {
+      "Icon": "Піктограма",
+      "None": "Нічого"
+    },
+    "ListType": "Тип списку",
+    "listType": {
+      "Grid": "Сітка",
+      "List": "Список"
+    }
+  },
+  "NoResults": "No Results"
+}

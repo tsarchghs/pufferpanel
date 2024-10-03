@@ -1,16 +1,14 @@
-module github.com/pufferpanel/pufferpanel/v3
-
-go 1.22
+module github.com/tsarchghs/pufferpanel/v3
 
 toolchain go1.22.0
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/MicahParks/jwkset v0.5.20
-	github.com/MicahParks/keyfunc/v3 v3.3.5
+	github.com/MicahParks/keyfunc v1.9.0
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/braintree/manners v0.0.0-20160418043613-82a8879fc5fd
-	github.com/cavaliergopher/grab/v3 v3.0.1
+	github.com/cavaliergopher/grab v1.0.0
 	github.com/creack/pty v1.1.23
 	github.com/docker/docker v26.1.5+incompatible
 	github.com/docker/go-connections v0.5.0
@@ -35,7 +33,7 @@ require (
 	github.com/mailgun/mailgun-go/v4 v4.15.2
 	github.com/mailjet/mailjet-apiv3-go/v4 v4.0.1
 	github.com/mattn/go-sqlite3 v1.14.23
-	github.com/mholt/archiver/v3 v3.5.1
+	github.com/mholt/archiver v1.1.2
 	github.com/opencontainers/image-spec v1.1.0
 	github.com/pkg/sftp v1.13.6
 	github.com/pquerna/otp v1.4.0
@@ -62,6 +60,7 @@ require (
 	dario.cat/mergo v1.0.1 // indirect
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 // indirect
+	github.com/DataDog/zstd v1.5.2 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/ProtonMail/go-crypto v1.0.0 // indirect
@@ -70,6 +69,7 @@ require (
 	github.com/boombuler/barcode v1.0.2 // indirect
 	github.com/bytedance/sonic v1.11.9 // indirect
 	github.com/bytedance/sonic/loader v0.1.1 // indirect
+	github.com/cavaliergopher/grab/v3 v3.0.1 // indirect
 	github.com/cloudflare/circl v1.3.9 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
 	github.com/cloudwego/iasm v0.2.0 // indirect
@@ -102,6 +102,7 @@ require (
 	github.com/go-sql-driver/mysql v1.8.1 // indirect
 	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
@@ -122,16 +123,17 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
+	github.com/kjk/lzma v0.0.0-20161016003348-3fd93898850d // indirect
 	github.com/klauspost/cpuid/v2 v2.2.8 // indirect
 	github.com/klauspost/pgzip v1.2.6 // indirect
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
-	github.com/mailjet/mailjet-apiv3-go/v3 v3.2.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
+	github.com/mholt/archiver/v3 v3.5.1 // indirect
 	github.com/microsoft/go-mssqldb v1.7.2 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/moby/docker-image-spec v1.3.1 // indirect
@@ -147,7 +149,8 @@ require (
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
-	github.com/robfig/cron/v3 v3.0.1 // indirect
+    github.com/pufferpanel/pufferpanel/v3 v3.0.0-rc.3 // Assuming this is a valid version
+	github.com/robfig/cron v1.2.0 // indirect
 	github.com/rogpeppe/go-internal v1.12.0 // indirect
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
@@ -190,5 +193,7 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gotest.tools/v3 v3.5.1 // indirect
+	gotest.tools v1.4.0 // indirect
+	pault.ag/go/debian v0.12.0 // indirect
+	pault.ag/go/topsort v0.1.1 // indirect
 )

@@ -1,0 +1,52 @@
+{
+  "Name": "Naam",
+  "Language": "Taal",
+  "Online": "Online",
+  "Offline": "Offline",
+  "Installing": "Installing",
+  "Unknown": "Onbekend",
+  "Loading": "Laden...",
+  "Description": "Description",
+  "Save": "Opslaan",
+  "Cancel": "Annuleren",
+  "Close": "Close",
+  "Host": "Hostnaam",
+  "Port": "Poort",
+  "Collapse": "Inklappen",
+  "Expand": "Expand",
+  "Copy": "Copy to clipboard",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "Volgende",
+  "Details": "Details",
+  "ErrorDetails": "Fout details",
+  "HelpTranslate": "Help ons PufferPanel te vertalen",
+  "Protocol": "Protocol",
+  "Add": "Voeg toe",
+  "Apply": "Apply",
+  "Confirm": "Confirm",
+  "Condition": "Condition",
+  "Discard": "Discard",
+  "ConfirmLeave": "You have unsaved changes, do you want to discard these changes and leave this page?",
+  "theme": {
+    "Theme": "Theme",
+    "Mode": "Mode",
+    "mode": {
+      "Light": "Light",
+      "Dark": "Dark",
+      "Auto": "Auto"
+    },
+    "BaseColor": "Base Color",
+    "ServerTypeDisplay": "Server Type Display",
+    "serverTypeDisplay": {
+      "Icon": "Icon",
+      "None": "None"
+    },
+    "ListType": "List Type",
+    "listType": {
+      "Grid": "Grid",
+      "List": "List"
+    }
+  },
+  "NoResults": "No Results"
+}

@@ -3,8 +3,8 @@ package email
 import (
 	"context"
 	"github.com/mailgun/mailgun-go/v4"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
 )
 
 type mailgunProvider struct {

@@ -3,9 +3,9 @@ package oauth2
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/pufferpanel/pufferpanel/v3/middleware"
-	"github.com/pufferpanel/pufferpanel/v3/oauth2"
-	"github.com/pufferpanel/pufferpanel/v3/response"
+	"github.com/tsarchghs/pufferpanel/middleware"
+	"github.com/tsarchghs/pufferpanel/oauth2"
+	"github.com/tsarchghs/pufferpanel/response"
 	"github.com/spf13/cast"
 	"net/http"
 )

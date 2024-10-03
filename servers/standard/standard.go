@@ -3,8 +3,8 @@ package standard
 import (
 	"errors"
 	"fmt"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"github.com/shirou/gopsutil/process"
 	"github.com/spf13/cast"
 	"os"

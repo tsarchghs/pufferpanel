@@ -19,7 +19,7 @@ package resolveforgeversion
 import (
 	"errors"
 	"github.com/hashicorp/go-version"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"path/filepath"
 	"strings"
 )

@@ -3,8 +3,8 @@ package spongedl
 import (
 	"encoding/json"
 	"errors"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/operations/forgedl"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/operations/forgedl"
 	"net/http"
 	"os"
 	"path"

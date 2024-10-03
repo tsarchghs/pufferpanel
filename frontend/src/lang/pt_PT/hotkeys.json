@@ -1,0 +1,75 @@
+{
+  "Title": "Atalhos de teclado",
+  "Global": {
+    "Title": "Global",
+    "g a": "Ir para Conta",
+    "g c": "Ir para Configuração do Painel",
+    "g n": "Go to Nodes",
+    "g s": "Go to Servers",
+    "g t": "Ir para Modelos",
+    "g u": "Go to Users"
+  },
+  "Self": {
+    "Title": "Account",
+    "t 2": "Go to 2-Factor-Auth tab",
+    "t a": "Go to Account Details tab",
+    "t o": "Go to OAuth tab",
+    "t p": "Ir para o separador Palavra-passe",
+    "t s": "Go to Preferences tab"
+  },
+  "ServerList": {
+    "Title": "Servidores",
+    "c": "Create a new server",
+    "l": "Focus the first server in the list"
+  },
+  "ServerView": {
+    "Title": "Server",
+    "t c": "Go to Console tab",
+    "t i": "Go to Statistics tab",
+    "t f": "Go to Files tab",
+    "t s": "Go to Settings tab",
+    "t u": "Go to Users tab",
+    "t 6": "Go to SFTP tab",
+    "t 7": "Ir para o separador API",
+    "t a": "Ir para o separador Admin",
+    "c c": "Limpar a consola",
+    "r r": "Iniciar servidor",
+    "r s": "Parar servidor",
+    "r k": "Terminar servidor",
+    "r i": "Instalar servidor",
+    "f a": "Archive current directory contents",
+    "f c d": "Criar diretório",
+    "f c f": "Criar ficheiro",
+    "f d": "Carregar diretório",
+    "f l": "Focus first file/folder in the list",
+    "f r": "Atualizar lista de ficheiros",
+    "f u": "Carregar ficheiros",
+    "a e": "Editar definição do servidor",
+    "a r": "Reload Server Definiton from disk"
+  },
+  "NodeList": {
+    "Title": "Nós",
+    "c": "Criar nó",
+    "l": "Focus the first node in the list"
+  },
+  "UserList": {
+    "Title": "Utilizadores",
+    "c": "Criar um novo utilizador",
+    "l": "Focus the first user in the list"
+  },
+  "TemplateList": {
+    "Title": "Modelos",
+    "c": "Criar modelo",
+    "l": "Focus the first template in the list"
+  },
+  "Template": {
+    "Title": "Template Editor",
+    "t e": "Ir para separador Ambiente",
+    "t g": "Ir para separador Geral",
+    "t h": "Ir para separador Hooks",
+    "t i": "Ir para separador Instalar",
+    "t j": "Ir para separador JSON",
+    "t r": "Ir para separador Configuração de Execução",
+    "t v": "Ir para separador Variáveis"
+  }
+}

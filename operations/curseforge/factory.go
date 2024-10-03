@@ -2,8 +2,8 @@ package curseforge
 
 import (
 	"errors"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
 	"github.com/spf13/cast"
 )
 

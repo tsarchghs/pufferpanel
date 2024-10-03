@@ -2,7 +2,7 @@ package models
 
 import (
 	"encoding/json"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"gorm.io/gorm"
 	"strings"
 )

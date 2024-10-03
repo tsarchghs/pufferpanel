@@ -2,7 +2,7 @@ package services
 
 import (
 	"github.com/gofrs/uuid/v5"
-	"github.com/pufferpanel/pufferpanel/v3/models"
+	"github.com/tsarchghs/pufferpanel/models"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"strings"

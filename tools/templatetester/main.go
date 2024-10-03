@@ -13,10 +13,10 @@ import (
 	"github.com/docker/docker/client"
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
-	"github.com/pufferpanel/pufferpanel/v3/servers"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
+	"github.com/tsarchghs/pufferpanel/logging"
+	"github.com/tsarchghs/pufferpanel/servers"
 	"github.com/spf13/cast"
 	"io/fs"
 	"log"
@@ -46,7 +46,7 @@ func main() {
 	var workingDir string
 	var reuse bool
 	var filesArg string
-	flag.StringVar(&gitRef, "gitRef", "refs/heads/v3", "")
+	flag.StringVar(&gitRef, "gitRef", "refs/heads", "")
 	flag.StringVar(&skipStr, "skip", "", "")
 	flag.StringVar(&requiredStr, "require", "", "")
 	flag.StringVar(&templateFolder, "path", "", "")

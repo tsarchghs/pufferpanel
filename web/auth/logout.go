@@ -3,8 +3,8 @@ package auth
 import (
 	"errors"
 	"github.com/gin-gonic/gin"
-	"github.com/pufferpanel/pufferpanel/v3/middleware"
-	"github.com/pufferpanel/pufferpanel/v3/services"
+	"github.com/tsarchghs/pufferpanel/middleware"
+	"github.com/tsarchghs/pufferpanel/services"
 	"net/http"
 )
 

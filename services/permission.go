@@ -2,7 +2,7 @@ package services
 
 import (
 	"errors"
-	"github.com/pufferpanel/pufferpanel/v3/models"
+	"github.com/tsarchghs/pufferpanel/models"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 )

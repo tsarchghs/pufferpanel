@@ -1,0 +1,52 @@
+{
+  "Name": "Navn",
+  "Language": "Sprog",
+  "Online": "Online",
+  "Offline": "Offline",
+  "Installing": "Installing",
+  "Unknown": "Ukendt",
+  "Loading": "Indlæser...",
+  "Description": "Description",
+  "Save": "Gem",
+  "Cancel": "Annuller",
+  "Close": "Close",
+  "Host": "Vært",
+  "Port": "Port",
+  "Collapse": "Minimer",
+  "Expand": "Expand",
+  "Copy": "Copy to clipboard",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "Næste",
+  "Details": "Detaljer",
+  "ErrorDetails": "Fejloplysninger",
+  "HelpTranslate": "Hjælp os med at oversætte PufferPanel",
+  "Protocol": "Protokol",
+  "Add": "Tilføj",
+  "Apply": "Apply",
+  "Confirm": "Confirm",
+  "Condition": "Condition",
+  "Discard": "Discard",
+  "ConfirmLeave": "You have unsaved changes, do you want to discard these changes and leave this page?",
+  "theme": {
+    "Theme": "Theme",
+    "Mode": "Mode",
+    "mode": {
+      "Light": "Light",
+      "Dark": "Dark",
+      "Auto": "Auto"
+    },
+    "BaseColor": "Base Color",
+    "ServerTypeDisplay": "Server Type Display",
+    "serverTypeDisplay": {
+      "Icon": "Icon",
+      "None": "None"
+    },
+    "ListType": "List Type",
+    "listType": {
+      "Grid": "Grid",
+      "List": "List"
+    }
+  },
+  "NoResults": "No Results"
+}

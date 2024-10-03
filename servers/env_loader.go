@@ -2,7 +2,7 @@ package servers
 
 import (
 	"fmt"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"path/filepath"
 	"sync"
 )

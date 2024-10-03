@@ -3,8 +3,8 @@ package auth
 import (
 	"context"
 	"github.com/gin-gonic/gin"
-	"github.com/pufferpanel/pufferpanel/v3/response"
-	"github.com/pufferpanel/pufferpanel/v3/services"
+	"github.com/tsarchghs/pufferpanel/response"
+	"github.com/tsarchghs/pufferpanel/services"
 	"net/http"
 )
 

@@ -2,8 +2,8 @@ package email
 
 import (
 	"github.com/mailjet/mailjet-apiv3-go/v4"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
 )
 
 type mailjetProvider struct {

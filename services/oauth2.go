@@ -1,7 +1,7 @@
 package services
 
 import (
-	"github.com/pufferpanel/pufferpanel/v3/models"
+	"github.com/tsarchghs/pufferpanel/models"
 	"gorm.io/gorm"
 )
 

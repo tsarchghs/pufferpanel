@@ -2,8 +2,8 @@ package alterfile
 
 import (
 	"bytes"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"os"
 	"path/filepath"
 	"regexp"

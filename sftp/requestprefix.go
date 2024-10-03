@@ -3,7 +3,7 @@ package sftp
 import (
 	"fmt"
 	"github.com/pkg/sftp"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"io"
 	"os"
 	"path/filepath"

@@ -2,8 +2,8 @@ package servers
 
 import (
 	"encoding/json"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"path/filepath"

@@ -2,8 +2,8 @@ package curseforge
 
 import (
 	"errors"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"io"
 	"net/http"
 	"os"

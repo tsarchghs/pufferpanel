@@ -1,0 +1,23 @@
+{
+  "Refresh": "Refresh",
+  "CreateFile": "إنشاء ملف",
+  "CreateFolder": "إنشاء مجلد",
+  "ArchiveCurrent": "Archive current folder",
+  "UploadFile": "Upload file",
+  "UploadFolder": "Upload folder",
+  "Archive": "Archive",
+  "Extract": "Extract",
+  "Download": "Download",
+  "Delete": "حذف",
+  "ConfirmDelete": "هل أنت متأكد من أنك تريد حذف هذا الملف؟",
+  "UploadSuccess": "تم رفع الملفات بنجاح",
+  "UploadFailed": "فشل تحميل الملفات",
+  "UploadProgress": "تقدم التحميل",
+  "PreparingUpload": "تجهيز التحميل",
+  "CreatingFolders": "جاري انشاء الملفات",
+  "CurrentlyUploading": "جاري تحميل الملف {current}/{total}",
+  "Current": "الحالي",
+  "Total": "الإجمالي",
+  "OpenLargeFile": "قد يسبب هذا الملف مشاكل في الأداء للمتصفح الخاص بك بسبب حجمه، هل تريد فتحه على أي حال؟",
+  "OpenAnyways": "فتح على أي حال"
+}

@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/pufferpanel/pufferpanel/v3"
-	"github.com/pufferpanel/pufferpanel/v3/config"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/pufferpanel/"
+	"github.com/tsarchghs/pufferpanel/config"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"github.com/spf13/cobra"
 	"os"
 	"runtime/debug"

@@ -2,7 +2,7 @@
 
 package servers
 
-import "github.com/pufferpanel/pufferpanel/v3/servers/standard"
+import "github.com/tsarchghs/pufferpanel/servers/standard"
 
 func init() {
 	envMapping["host"] = standard.EnvironmentFactory{}

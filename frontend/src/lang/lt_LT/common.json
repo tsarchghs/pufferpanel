@@ -1,0 +1,52 @@
+{
+  "Name": "Pavadinimas",
+  "Language": "Kalba",
+  "Online": "Įjungtas",
+  "Offline": "Išjungtas",
+  "Installing": "Instaliuojama",
+  "Unknown": "Nežinomas",
+  "Loading": "Kraunasi...",
+  "Description": "Aprašymas",
+  "Save": "Išsaugoti",
+  "Cancel": "Atšaukti",
+  "Close": "Uždaryti",
+  "Host": "Hostas",
+  "Port": "Portas",
+  "Collapse": "Suskleisti",
+  "Expand": "Išskleisti",
+  "Copy": "Kopijuoti į iškarpinę",
+  "Copied": "Nukopijuota į iškarpinę",
+  "Back": "Atgal",
+  "Next": "Toliau",
+  "Details": "Išsamiau",
+  "ErrorDetails": "Klaidos informacija",
+  "HelpTranslate": "Padėkite mums išversti „PufferPanel“",
+  "Protocol": "Protokolas",
+  "Add": "Pridėti",
+  "Apply": "Taikyti",
+  "Confirm": "Patvirtinti",
+  "Condition": "Būklė",
+  "Discard": "Atsikratyti",
+  "ConfirmLeave": "Jūs turite neišsaugotų pakeitimų, ar norite atsikratyti šių pakeitimų ir palikti puslapį?",
+  "theme": {
+    "Theme": "Tema",
+    "Mode": "Režimas",
+    "mode": {
+      "Light": "Šviesusis",
+      "Dark": "Tamsusis",
+      "Auto": "Auto"
+    },
+    "BaseColor": "Pagrindinė spalva",
+    "ServerTypeDisplay": "Serverio tipo rodymas",
+    "serverTypeDisplay": {
+      "Icon": "Paveiksliukas",
+      "None": "Joks"
+    },
+    "ListType": "Sąrašo tipas",
+    "listType": {
+      "Grid": "Tinklelis",
+      "List": "Sąrašas"
+    }
+  },
+  "NoResults": "Nėra rezultatų"
+}

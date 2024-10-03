@@ -2,7 +2,7 @@
 
 package servers
 
-import "github.com/pufferpanel/pufferpanel/v3/servers/docker"
+import "github.com/tsarchghs/pufferpanel/servers/docker"
 
 func init() {
 	envMapping["docker"] = docker.EnvironmentFactory{}

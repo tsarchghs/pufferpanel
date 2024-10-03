@@ -1,8 +1,8 @@
 package pufferpanel
 
 import (
-	"github.com/cavaliergopher/grab/v3"
-	"github.com/mholt/archiver/v3"
+	"github.com/cavaliergopher/grab"
+	"github.com/mholt/archiver"
 	"net/http"
 	"os"
 )

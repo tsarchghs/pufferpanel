@@ -1,0 +1,52 @@
+{
+  "Name": "Nome",
+  "Language": "Lingua",
+  "Online": "Online",
+  "Offline": "Offline",
+  "Installing": "Installing",
+  "Unknown": "Sconosciuto",
+  "Loading": "Caricamento...",
+  "Description": "Descrizione",
+  "Save": "Salva",
+  "Cancel": "Annulla",
+  "Close": "Chiudi",
+  "Host": "Ospite",
+  "Port": "Porta",
+  "Collapse": "Collassa",
+  "Expand": "Espandi",
+  "Copy": "Copy to clipboard",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "Successivo",
+  "Details": "Dettagli",
+  "ErrorDetails": "Dettagli Errore",
+  "HelpTranslate": "Aiutaci a tradurre PufferPanel",
+  "Protocol": "Protocollo",
+  "Add": "Aggiungi",
+  "Apply": "Applica",
+  "Confirm": "Conferma",
+  "Condition": "Condizione",
+  "Discard": "Discard",
+  "ConfirmLeave": "You have unsaved changes, do you want to discard these changes and leave this page?",
+  "theme": {
+    "Theme": "Tema",
+    "Mode": "Modalità",
+    "mode": {
+      "Light": "Chiaro",
+      "Dark": "Scuro",
+      "Auto": "Automatico"
+    },
+    "BaseColor": "Colore Base",
+    "ServerTypeDisplay": "Visualizzazione Tipo Server",
+    "serverTypeDisplay": {
+      "Icon": "Icona",
+      "None": "Nessuno"
+    },
+    "ListType": "Tipo Di Lista",
+    "listType": {
+      "Grid": "Griglia",
+      "List": "Lista"
+    }
+  },
+  "NoResults": "No Results"
+}

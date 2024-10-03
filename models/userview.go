@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"gopkg.in/go-playground/validator.v9"
 	"net/url"
 )

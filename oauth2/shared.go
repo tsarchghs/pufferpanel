@@ -3,7 +3,7 @@ package oauth2
 import (
 	"bytes"
 	"github.com/gin-gonic/gin/binding"
-	"github.com/pufferpanel/pufferpanel/v3/config"
+	"github.com/tsarchghs/pufferpanel/config"
 	"net/http"
 	"net/url"
 )

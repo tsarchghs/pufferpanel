@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"golang.org/x/sys/unix"
 	"os"
 	"strings"

@@ -1,0 +1,52 @@
+{
+  "Name": "الاسم",
+  "Language": "اللغة",
+  "Online": "متصل",
+  "Offline": "غير متصل",
+  "Installing": "Installing",
+  "Unknown": "غير معروف",
+  "Loading": "جاري التحميل...",
+  "Description": "الوصف",
+  "Save": "حفظ",
+  "Cancel": "إلغاء",
+  "Close": "إغلاق",
+  "Host": "المضيف",
+  "Port": "المنفذ",
+  "Collapse": "طي",
+  "Expand": "توسيع",
+  "Copy": "Copy to clipboard",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "التالي",
+  "Details": "التفاصيل",
+  "ErrorDetails": "تفاصيل الخطأ",
+  "HelpTranslate": "ساعدنا على ترجمة بوفر بانل",
+  "Protocol": "بروتوكول",
+  "Add": "إضافة",
+  "Apply": "تطبيق",
+  "Confirm": "تأكيد",
+  "Condition": "الشرط",
+  "Discard": "Discard",
+  "ConfirmLeave": "You have unsaved changes, do you want to discard these changes and leave this page?",
+  "theme": {
+    "Theme": "السمة",
+    "Mode": "الوضع",
+    "mode": {
+      "Light": "ساطع",
+      "Dark": "داكن",
+      "Auto": "تلقائي"
+    },
+    "BaseColor": "اللون الأساسي",
+    "ServerTypeDisplay": "عرض نوع الخادم",
+    "serverTypeDisplay": {
+      "Icon": "الأيقونة",
+      "None": "بدون"
+    },
+    "ListType": "نوع القائمة",
+    "listType": {
+      "Grid": "شبكي",
+      "List": "قائمة"
+    }
+  },
+  "NoResults": "No Results"
+}

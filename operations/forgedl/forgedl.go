@@ -19,7 +19,7 @@ package forgedl
 import (
 	"encoding/json"
 	"errors"
-	"github.com/pufferpanel/pufferpanel/v3"
+	"github.com/pufferpanel/"
 	"path"
 	"strings"
 )

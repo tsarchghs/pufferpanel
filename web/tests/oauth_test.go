@@ -2,8 +2,8 @@ package tests
 
 import (
 	"encoding/json"
-	"github.com/pufferpanel/pufferpanel/v3"
-	models "github.com/pufferpanel/pufferpanel/v3/oauth2"
+	"github.com/pufferpanel/"
+	models "github.com/tsarchghs/pufferpanel/oauth2"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

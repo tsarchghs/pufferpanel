@@ -22,7 +22,7 @@ RUN go mod download && go mod verify
 COPY . .
 
 ARG GOPROXY=""
-RUN go build -v -buildvcs=false -o /home/pufferpanel/templatetester github.com/pufferpanel/pufferpanel/v3/tools/templatetester
+RUN go build -v -buildvcs=false -o /home/pufferpanel/templatetester github.com/tsarchghs/pufferpanel/tools/templatetester
 
 FROM ubuntu:20.04 AS final
 

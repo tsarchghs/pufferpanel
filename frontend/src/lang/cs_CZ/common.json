@@ -1,0 +1,52 @@
+{
+  "Name": "Jméno",
+  "Language": "Jazyk",
+  "Online": "Zapnut",
+  "Offline": "Vypnut",
+  "Installing": "Installing",
+  "Unknown": "Neznámý",
+  "Loading": "Načítám..",
+  "Description": "Popis",
+  "Save": "Uložit",
+  "Cancel": "Zrušit",
+  "Close": "Zavřít",
+  "Host": "Hostitel",
+  "Port": "Port",
+  "Collapse": "Sbalit",
+  "Expand": "Rozbalit",
+  "Copy": "Kopírovat",
+  "Copied": "Copied to clipboard",
+  "Back": "Back",
+  "Next": "Další",
+  "Details": "Podrobnosti",
+  "ErrorDetails": "Podrobnosti o chybě",
+  "HelpTranslate": "Pomozte nám přeložit PufferPanel",
+  "Protocol": "Protokol",
+  "Add": "Přidat",
+  "Apply": "Použít",
+  "Confirm": "Potvrdit",
+  "Condition": "Podmínka",
+  "Discard": "Zrušit",
+  "ConfirmLeave": "Máte neuložené změny, chcete tyto změny zahodit a opustit tuto stránku?",
+  "theme": {
+    "Theme": "Motiv",
+    "Mode": "Režim",
+    "mode": {
+      "Light": "Světlý",
+      "Dark": "Tmavý",
+      "Auto": "Automaticky"
+    },
+    "BaseColor": "Základní barva",
+    "ServerTypeDisplay": "Zobrazení typu serveru",
+    "serverTypeDisplay": {
+      "Icon": "Ikona",
+      "None": "Nic"
+    },
+    "ListType": "Typ seznamu",
+    "listType": {
+      "Grid": "Tabulka",
+      "List": "Seznam"
+    }
+  },
+  "NoResults": "No Results"
+}

@@ -5,7 +5,7 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/pufferpanel/pufferpanel/v3/logging"
+	"github.com/tsarchghs/pufferpanel/logging"
 	"gopkg.in/go-playground/validator.v9"
 )
 

@@ -6,7 +6,7 @@ We welcome any contributions to PufferPanel, whether in the form of bug reports,
 
 A bug is when the software does not behave in a way that is expected. It is **not** invalid configurations which render the panel broken.
 
-If you believe you have located a bug, please report it to the [Bug Tracker](https://github.com/PufferPanel/PufferPanel/issues).
+If you believe you have located a bug, please report it to the [Bug Tracker](https://github.com/pufferpanel/issues).
 
 **Please make sure there is not an issue for your specific bug already!** If you find that someone else has reported a bug you have, please comment on that issue stating you have replicated that bug. Do not make a new issue.
 
